@@ -4,5 +4,5 @@
  Estou aprendendo a criara sites e agora vou gerenciar meus repositórios.
 
 
- <a href="https://degodelf.github.io/html-css/Exercícios/ex001/index.html">Executar o exercicio 001</a>
+ <a href="https://degodelf.github.io/html-css/Exercicios/ex001/index.html">Executar o exercicio 001</a>
 
