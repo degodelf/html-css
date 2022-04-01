@@ -54,6 +54,7 @@ p > a:hover {
 }
 
 section {
+    display: block;
     font-family: var(--fonte3);
     font-size: 2.8em;
     line-height: 2.0;
@@ -76,8 +77,35 @@ section {
     height: 620px;
     width: 550px;
     text-align: left;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.377);
     color: white;
-    padding: auto;
-}
+    padding: 5px;
     
+}
+
+.img02 {    
+    background-image: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    margin: auto;
+    padding: 30px;
+    }
+    
+.box2 {
+    height: 620px;
+    width: 550px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.377);
+    color: white;
+    padding: 5px;
+    }
+
+.box3 {
+    font-family: var(--fonte1);
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 1px
+    ;
+}    
